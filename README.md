@@ -1,1 +1,1 @@
-# JavaScript
+# Estudo sobre JavaScript
